@@ -1,0 +1,28 @@
+C:\odoo\C#\Employee Manager\Employee Manager\bin\Debug\net8.0\Employee Manager.exe
+C:\odoo\C#\Employee Manager\Employee Manager\bin\Debug\net8.0\Employee Manager.deps.json
+C:\odoo\C#\Employee Manager\Employee Manager\bin\Debug\net8.0\Employee Manager.runtimeconfig.json
+C:\odoo\C#\Employee Manager\Employee Manager\bin\Debug\net8.0\Employee Manager.dll
+C:\odoo\C#\Employee Manager\Employee Manager\bin\Debug\net8.0\Employee Manager.pdb
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.AssemblyInfoInputs.cache
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.AssemblyInfo.cs
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.csproj.CoreCompileInputs.cache
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.dll
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\refint\Employee Manager.dll
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.pdb
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\Employee Manager.genruntimeconfig.cache
+C:\odoo\C#\Employee Manager\Employee Manager\obj\Debug\net8.0\ref\Employee Manager.dll
+C:\odoo\C#\EM\Employee Manager\bin\Debug\net8.0\Employee Manager.exe
+C:\odoo\C#\EM\Employee Manager\bin\Debug\net8.0\Employee Manager.deps.json
+C:\odoo\C#\EM\Employee Manager\bin\Debug\net8.0\Employee Manager.runtimeconfig.json
+C:\odoo\C#\EM\Employee Manager\bin\Debug\net8.0\Employee Manager.dll
+C:\odoo\C#\EM\Employee Manager\bin\Debug\net8.0\Employee Manager.pdb
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.AssemblyInfoInputs.cache
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.AssemblyInfo.cs
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.csproj.CoreCompileInputs.cache
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.dll
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\refint\Employee Manager.dll
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.pdb
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\Employee Manager.genruntimeconfig.cache
+C:\odoo\C#\EM\Employee Manager\obj\Debug\net8.0\ref\Employee Manager.dll
