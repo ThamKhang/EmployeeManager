@@ -11,9 +11,6 @@ The Student Management System is a C# console application designed to manage stu
 - **Search Students**: Find students by specific criteria such as ID or department.
 - **Sample Data Initialization**: Preload the system with sample student data for demonstration purposes.
 
-## Installation
-To set up the Student Management System on your local machine, follow these steps:
-
-1. **Clone the repository**:
+## Clone the repository
    ```bash
    git clone https://github.com/ThamKhang/EmployeeManager.git
